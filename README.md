@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sananda Chowdhury</h1>
-<h3 align="center">A 21 year, old - learning Web Developemnt , DSA and more about life !</h3>
+<h3 align="center">A 22 year, old - learning Web Developemnt , DSA and more about life !</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sa91001&label=Profile%20views&color=0e75b6&style=flat" alt="sa91001" /> </p>
 
