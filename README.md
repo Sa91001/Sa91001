@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@itssananda" target="blank"><img src="https://img.shields.io/twitter/follow/@itssananda?logo=twitter&style=for-the-badge" alt="@itssananda" /></a> </p>
 
-- 🌱 I’m currently learning **Oops, DSA using java, web development, AIML**
+- 🌱 I’m currently learning **Oops, DSA using java, AIML**
 
 - 💬 Ask me about **DSA**
 
